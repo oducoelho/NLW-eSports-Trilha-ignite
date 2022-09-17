@@ -1,9 +1,9 @@
 <h1 align="center">NLW eSports Trilha Ignite</h1>
 
-Landing Page
+## Landing Page
 <hr />
 <img src="screenshot.jpg" />
-Splash Screen
+## Splash Screen
 <hr />
 <img src="screenshot2.jpg" 
 
