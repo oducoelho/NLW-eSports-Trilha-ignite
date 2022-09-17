@@ -3,6 +3,7 @@
 ## Landing Page
 <hr />
 <img src="screenshot.jpg" />
+
 ## Splash Screen
 <hr />
 <img src="screenshot2.jpg" 
