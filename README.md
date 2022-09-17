@@ -8,11 +8,12 @@
 <hr />
 <img src="screenshot2.jpg" 
 
+ 
 ## :memo: Descrição
 * NLW eSports da RocketSet trilha ignite
 
 ## :books: Funcionalidades
-* Projeto realizado para encontrar pessoas que jogagam o mesmo jogo que você e estão sem uma dupla para jogar 
+* Projeto realizado para encontrar pessoas que jogam o mesmo jogo que você, e estão sem uma dupla para jogar
      
 ## :wrench: Tecnologias utilizadas
 * Javascript
